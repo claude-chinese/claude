@@ -8,8 +8,8 @@
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
 | AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 3.5 Sonnet/Opus | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
-| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 3.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
-| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
+| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 3.5 Sonnet, Claude 2 | 注册后5次 | 支持多模态，文档分析 |
+| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.5 Sonnet/Opus | 5次 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
