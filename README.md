@@ -1,15 +1,15 @@
 # Claude AI 中文版使用指南
 
-> 国内访问 Claude AI 中文版的指南，支持 Claude 3.5 Sonnet/Opus，无需翻墙
-> 更新时间: 2024/01/14
+> 国内访问 Claude AI 中文版的指南，支持 Claude 4 Sonnet/Opus，无需翻墙
+> 更新时间: 2025/05/23
 
 ## 国内可用的 Claude AI 中文版镜像站推荐
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
-| AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 3.5 Sonnet/Opus | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
-| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 3.5 Sonnet, Claude 2 | 注册后5次 | 支持多模态，文档分析 |
-| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.5 Sonnet/Opus | 5次 | 中文界面，无广告 |
+| AIBox 一站式AI平台 | [aibox365](https://chat.aibox365.cn) | Claude 4 Sonnet/Opus | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
+| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 4 Sonnet, Claude 2 | 注册后5次 | 支持多模态，文档分析 |
+| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 4 Sonnet/Opus | 5次 | 中文界面，无广告 |
 
 ## 如何快速开始使用 Claude AI 中文版？
 
@@ -19,7 +19,7 @@
 2. **注册或直接使用:**
    - 注册：填写邮箱或手机号，完成注册
    - 免注册：部分站点允许直接使用
-3. **选择模型:** 根据需求选择 Claude 3.5 Sonnet 或 Opus
+3. **选择模型:** 根据需求选择 Claude 4 Sonnet 或 Opus
 4. **开始对话:** 输入问题，即可获得高效回答
 
 ### 方法二：通过官网访问（需翻墙）
@@ -28,7 +28,7 @@
 2. **注册账号:**
    - 准备邮箱，用于验证
    - 填写基本信息，完成注册
-3. **选择版本:** 登录后选择 Claude 3.5 Sonnet 或 Opus
+3. **选择版本:** 登录后选择 Claude 4 Sonnet 或 Opus
 4. **开始对话:** 输入问题，畅享原版智能对话
 
 ## Claude AI使用场景
@@ -64,13 +64,13 @@ Claude擅长处理和分析复杂数据，可以：
 ### Q1：Claude和其他AI模型有什么区别？
 Claude以其准确性、安全性和伦理性著称，特别擅长学术研究、代码开发和复杂分析任务。它的回答更加客观、详实，且具有较强的上下文理解能力。
 
-### Q2：Claude 3.5的主要优势是什么？
-Claude 3.5提供了更强的多模态能力、更准确的分析能力，以及更好的上下文理解能力。特别是在代码和自媒体写作方面，代码能力上目前全球公认的最强模型Claude3.5，自媒体写作方面Claude的AI味非常少。
+### Q2：Claude 4的主要优势是什么？
+Claude 4提供了更强的多模态能力、更准确的分析能力，以及更好的上下文理解能力。特别是在代码和自媒体写作方面，代码能力上目前全球公认的最强模型Claude4，自媒体写作方面Claude的AI味非常少。
 
 ### Q3：如何判断是否真的在使用Claude？
 可以通过复杂推理问题或专业领域问题来测试模型的能力。这里提供一些可以使用的测试case:
 - "一个人能娶自己遗孀的妹妹吗？"
-- "音乐专辑 Ariana Grande 'Eternal Sunshine'是什么时间发布的？"（正确答案2024-03-08，这个主要是区分claude3.5和claude3，claude3时间上在2023年截止）
+- "音乐专辑 Ariana Grande 'Eternal Sunshine'是什么时间发布的？"（正确答案2025-03-08，这个主要是区分claude4和claude3，claude3时间上在2023年截止）
 
 ### Q4：Claude的数据安全性如何？
 Claude内置了强大的安全机制，不会泄露敏感信息，也不会生成有害内容。但建议用户在使用时仍然避免输入个人敏感信息。
@@ -84,4 +84,4 @@ Claude内置了强大的安全机制，不会泄露敏感信息，也不会生�
 
 ---
 
-© 2024 Claude AI 中文指南
+© 2025 Claude AI 中文指南
